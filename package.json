@@ -20,5 +20,10 @@
   "homepage": "https://github.com/entrepreneurangelmartinez/git-test-2#readme",
   "devDependencies": {
     "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1"
   }
 }
